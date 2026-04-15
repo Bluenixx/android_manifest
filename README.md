@@ -14,6 +14,8 @@ repo init -u https://github.com/Bluenixx/android_manifest.git -b lineage-23.2
 repo sync
 ```
 
+---
+
 Bluenixx flags
 
 ```
@@ -25,6 +27,8 @@ LINEAGE_BUILDTYPE := OFFICIAL # UNOFFICIAL
 ```
 WITH_GMS_COMMS_SUITE := true # false
 ```
+
+---
 
 Build
 ```
