@@ -12,7 +12,7 @@ repo init -u https://github.com/Bluenixx/android_manifest.git -b main
 repo sync
 ```
 
-# Bluenixx flags
+Bluenixx flags
 
 ```
 WITH_GAPPS +: true # false is default
