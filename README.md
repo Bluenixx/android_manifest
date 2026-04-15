@@ -1,5 +1,7 @@
 # Bluenixx build guide
 
+![banner](banner/banner.png)
+
 ---
 
 Create directory for bluenixx
