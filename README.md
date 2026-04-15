@@ -1,6 +1,6 @@
 # Bluenixx build guide
 
-![banner](banner/banner.png)
+![banner](banner/img.png)
 
 ---
 
