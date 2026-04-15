@@ -15,7 +15,7 @@ repo sync
 Bluenixx flags
 
 ```
-MAINTAINER_BLUENIXX +: ZedissP
+LINEAGE_BUILDTYPE := OFFICIAL
 ```
 
 Build
