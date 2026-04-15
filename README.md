@@ -15,6 +15,9 @@ repo sync
 Bluenixx flags
 
 ```
+BLUENIXX_MAINTAINER := Unknown
+```
+```
 LINEAGE_BUILDTYPE := OFFICIAL
 ```
 ```
@@ -23,9 +26,9 @@ WITH_GMS_COMMS_SUITE := true
 
 Build
 ```
-lunch bluenixx_$codename-bp4a-user # or userdebug
+lunch lineage_$codename-bp4a-user # or userdebug
 ```
 
 ```
-m bluenixx
+m bacon
 ```
