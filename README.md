@@ -17,6 +17,9 @@ Bluenixx flags
 ```
 LINEAGE_BUILDTYPE := OFFICIAL
 ```
+```
+WITH_GMS_COMMS_SUITE := true
+```
 
 Build
 ```
