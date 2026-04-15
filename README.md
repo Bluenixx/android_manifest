@@ -31,11 +31,6 @@ WITH_GMS_COMMS_SUITE := true # false
 ---
 
 Build
-if you not want dolby
-```
-rm -rf ~/bluenixx/vendor/sony
-```
-
 ```
 lunch lineage_$codename-bp4a-user # or userdebug
 ```
@@ -46,4 +41,8 @@ m bacon
 
 ---
 
+if you don't want Dolby
+```
+rm -rf ~/bluenixx/vendor/sony
+```
 Dolby commits reference
