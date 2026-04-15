@@ -8,20 +8,20 @@ mkdir ~/bluenixx
 cd ~/bluenixx
 ```
 ```
-repo init -u https://github.com/Bluenixx/android_manifest.git -b 23.2
+repo init -u https://github.com/Bluenixx/android_manifest.git -b lineage-23.2
 repo sync
 ```
 
 Bluenixx flags
 
 ```
-BLUENIXX_MAINTAINER := Unknown
+BLUENIXX_MAINTAINER := Unknown # Yourname
 ```
 ```
-LINEAGE_BUILDTYPE := OFFICIAL
+LINEAGE_BUILDTYPE := OFFICIAL # UNOFFICIAL
 ```
 ```
-WITH_GMS_COMMS_SUITE := true
+WITH_GMS_COMMS_SUITE := true # false
 ```
 
 Build
