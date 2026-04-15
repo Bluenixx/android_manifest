@@ -8,16 +8,16 @@
            fetch="https://github.com/LineageOS"
            revision="refs/heads/lineage-23.2" />
 
-  <remote  name="bluenix"
+  <remote  name="Bluenixx"
            fetch="https://github.com/Bluenixx"
            revision="refs/heads/lineage-23.2" />
 
   <include name="snippets/lineage.xml" />
 
   <remove-project name="LineageOS/android_vendor_lineage" />
-  <project path="vendor/lineage" name="android_vendor_lineage" remote="bluenix" />
+  <project path="vendor/lineage" name="android_vendor_lineage" remote="Bluenixx" />
 
   <remove-project name="LineageOS/android_frameworks_base" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="bluenix" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="Bluenixx" />
 
 </manifest>
