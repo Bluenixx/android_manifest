@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote name="LineageOS" fetch="https://github.com/LineageOS" revision="lineage-23.2" />
   <remote name="github" fetch="https://github.com/" />
-  <remote name="lineage" fetch="https://github.com/LineageOS" revision="refs/heads/lineage-23.2" />
-  <remote name="Bluenixx" fetch="https://github.com/Bluenixx" revision="refs/heads/lineage-23.2" />
+  <remote name="Bluenixx" fetch="https://github.com/Bluenixx" revision="lineage-23.2" />
 
 
   <remove-project name="LineageOS/android_vendor_lineage" />
