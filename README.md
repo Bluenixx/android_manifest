@@ -10,7 +10,7 @@ mkdir ~/bluenixx
 cd ~/bluenixx
 ```
 ```
-repo init -u https://github.com/Bluenixx/android_manifest.git -b lineage-23.2
+repo init -u https://github.com/Bluenixx/android_manifest.git -b main
 repo sync
 ```
 
