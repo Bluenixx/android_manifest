@@ -5,7 +5,7 @@
   <remote name="lineage" fetch="https://github.com/LineageOS" revision="refs/heads/lineage-23.2" />
   <remote name="Bluenixx" fetch="https://github.com/Bluenixx" revision="refs/heads/lineage-23.2" />
 
-  <include name="snippets/lineage.xml" />
+  #<include name="snippets/lineage.xml" />
 
   <remove-project name="LineageOS/android_vendor_lineage" />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="Bluenixx" />
